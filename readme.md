@@ -32,7 +32,7 @@ The notebooks are arranged in chronological order. Each session builds on the me
 
 | Session | Notebook | Main objective |
 |---|---|---|
-| 01 | `Untitled1.ipynb` | Initial exploration of the non-trivial zeros |
+| 01 | `Session1.ipynb` | Initial exploration of the non-trivial zeros |
 | 02 | `Session2.ipynb` | Numerical root searches and zero refinement |
 | 03 | `Session3_Argument_Principle.ipynb` | Argument principle and contour winding |
 | 04 | `Session4_Rigorous_Zero_Counting.ipynb` | Rigorous contour-based zero counting |
