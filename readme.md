@@ -14,9 +14,7 @@ This repository documents the progression of the research, from exploring the no
 
 The Riemann Hypothesis states that every non-trivial zero of the Riemann zeta function has real part equal to one half:
 
-\[
-\zeta(s)=0 \implies \operatorname{Re}(s)=\frac12
-\]
+ζ(s) = 0 ⇒ Re(s) = 1/2
 
 The project investigates the non-trivial zeros numerically and uses rigorous computational techniques to verify increasingly large finite regions of the critical strip.
 
@@ -197,13 +195,10 @@ The project aims to maintain transparent calculations, reproducible results, and
 
 ---
 
-## Author and repository
+## Author
 
-**GitHub Profile:**  
-https://github.com/Psynotch
-
-**Project Repository:**  
-https://github.com/Psynotch/firstrep
+Mohammed Owais
+mohammedowaisshaik@gmail.com
 
 Contributions, mathematical discussions, and constructive feedback are welcome.
 
