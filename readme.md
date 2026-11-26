@@ -35,6 +35,7 @@ The notebooks are arranged in chronological order. Each session builds on the me
 | 03 | `Session3_Argument_Principle.ipynb` | Argument principle and contour winding |
 | 04 | `Session4_Rigorous_Zero_Counting.ipynb` | Rigorous contour-based zero counting |
 | 06 | `Session6_Full_Critical_Strip_Verification.ipynb` | Verification across the full critical strip |
+| 05 | `Session5_Individual_Zero_verification.ipynb` | Individual zero verification |
 | 07 | `Session7_Extended_Zero_Verification.ipynb` | Extension of verification to height 100 |
 | 08 | `Session8_Automated_verification_of_649_zeros.ipynb` | Automated verification up to height 1,000 |
 | 09 | `Session9_Automated_Turing_Verification.ipynb` | Automated Turing-method zero isolation |
@@ -65,6 +66,10 @@ Introduces contour integration and the argument principle to investigate how man
 **Session 04 — Rigorous zero counting**
 
 Moves beyond ordinary numerical contour sampling by using Arb ball arithmetic to obtain rigorous enclosures and certify the contour calculation.
+
+**Session 05 - Individual_Zero_verification.ipynb**
+
+Focuses on the verification of individual non-trivial zeros, building on the earlier numerical and zero-counting investigations.
 
 ### Phase 2 — Expanding the verification region
 
